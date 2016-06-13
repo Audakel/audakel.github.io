@@ -29,7 +29,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: Audakel
-  stackoverflow: users/4112231/audakel
+  stackoverflow: #users/4112231/audakel
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
