@@ -6,7 +6,9 @@
 name: Audakel Bit
 
 # Short bio or description (displayed in the header)
-description: BYU CS. Intelligence is the ability to adapt to change. I do reasearch on using deep learning to identify pairs of Single Nucleotide Polymorphisms (SNPs) that are associated with Alzheimer's disease. 
+description: > 
+  BYU CS. Intelligence is the ability to adapt to change. I do reasearch on using deep 
+  learning to identify pairs of Single Nucleotide Polymorphisms (SNPs) that are associated with Alzheimer's disease. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/Audakel.png
