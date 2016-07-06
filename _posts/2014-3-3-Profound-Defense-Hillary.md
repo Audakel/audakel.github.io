@@ -93,7 +93,5 @@ Hillary is nobody’s idea of perfect. Fine. But in my view if a man with her qu
 Most of the people who hate Hillary when she’s running for office end up liking her just fine once she’s won. And I have every confidence that history will repeat itself again this November. As for myself, I have been watching Presidential elections since Nixon. And never in my life has there been an easier or more obvious choice than now. Trump is not merely a bad choice, he is (as many leading Republicans have already admitted) a catastrophic choice, unfit in every possible way for the office of the Presidency.
 As such, I happily voted for Hillary in my primary. And I will proudly vote for her in November. Yes she will disappoint us all on occasion. Who doesn’t? But I think she’s also going to surprise a lot of people. She will fear neither consensus when possible nor ass-kicking when necessary. She will safeguard us from the damage a right-wing Supreme Court would inflict on the nation. She will stand for the rights of women, LGBT Americans, and minorities. She will maintain critical global relationships, and she will react to dangerous situations with the temperament of a seasoned and experienced professional. And in a nation that didn’t even allow women to vote until 1920, she will make history by shattering the very highest glass ceiling, and in doing so forever change the way a generation of young women view their place in our Republic.
 
-She’s going to be a fine President.
 
-I’m with her.
 
