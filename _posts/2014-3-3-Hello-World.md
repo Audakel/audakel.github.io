@@ -4,17 +4,6 @@ title: The most profound defense of Hillary Clinton I have ever seen
 published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-> Hello there mate
-
-	x = 1;
-    var dog = 3 + x;
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
 
 
 "In the course of a single conversation, I have been assured that Hillary is cunning and manipulative but also crass, clueless, and stunningly impolitic; that she is a hopelessly woolly-headed do-gooder and, at heart, a hardball litigator; that she is a base opportunist and a zealot convinced that God is on her side. What emerges is a cultural inventory of villainy rather than a plausible depiction of an actual person." —Henry Louis Gates The quote above comes from a fascinating article called “Hating Hillary”, written by Gates for the New Yorker in 1996. Even now, 20 years after it was first published, it’s a fascinating and impressive piece, and if you have a few spare moments I strongly recommend it to you. (www.newyorker.com/...)
@@ -107,3 +96,14 @@ As such, I happily voted for Hillary in my primary. And I will proudly vote for 
 She’s going to be a fine President.
 
 I’m with her.
+
+Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
+> Hello there mate
+
+	x = 1;
+    var dog = 3 + x;
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
