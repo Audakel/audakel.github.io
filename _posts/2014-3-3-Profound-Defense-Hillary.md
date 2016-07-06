@@ -3,10 +3,10 @@ layout: post
 title: The most profound defense of Hillary Clinton I have ever seen
 published: true
 ---
+> First of all — this is not my writing.  It's a Facebook post by someone I don’t even know, a man named Michael Arnovitz in Portland OR.  But as a Facebook post it passes the fair use test and I’m quite certain he would not object that I share it here (he doesn’t). So without further ado, it’s truly worth the read:
 
 
-
-"In the course of a single conversation, I have been assured that Hillary is cunning and manipulative but also crass, clueless, and stunningly impolitic; that she is a hopelessly woolly-headed do-gooder and, at heart, a hardball litigator; that she is a base opportunist and a zealot convinced that God is on her side. What emerges is a cultural inventory of villainy rather than a plausible depiction of an actual person." —Henry Louis Gates The quote above comes from a fascinating article called “Hating Hillary”, written by Gates for the New Yorker in 1996. Even now, 20 years after it was first published, it’s a fascinating and impressive piece, and if you have a few spare moments I strongly recommend it to you. (www.newyorker.com/...)
+"In the course of a single conversation, I have been assured that Hillary is cunning and manipulative but also crass, clueless, and stunningly impolitic; that she is a hopelessly woolly-headed do-gooder and, at heart, a hardball litigator; that she is a base opportunist and a zealot convinced that God is on her side. What emerges is a cultural inventory of villainy rather than a plausible depiction of an actual person." —Henry Louis Gates The quote above comes from a fascinating article called “Hating Hillary”, written by Gates for the New Yorker in 1996. Even now, 20 years after it was first published, it’s a fascinating and impressive piece, and if you have a few spare moments I strongly recommend it to you.
 
 And I’m reading pieces like this because now that Hillary has (essentially if not officially) won the Democratic Primary, I have become increasingly fascinated by the way so many people react to her. In truth, I sometimes think that I find that as interesting as Hillary herself. And I can’t help but notice that many of the reactions she receives seem to reflect what Gates referred to as “a cultural inventory of villainy” rather than any realistic assessment of who she really is and what she has really done.
 
