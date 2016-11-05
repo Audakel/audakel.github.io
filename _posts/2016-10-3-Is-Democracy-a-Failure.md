@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Is democracy a failure
+title: Is democracy a failure (March, 1861 | New York Times)
 published: true
 ---
 
-Published: March 14, 1861 | New York Times
 
 Among the many voices raised in Europe over the disaster of secession, amid the groans of sorrow, cries of indignation and tones of sympathy which reach us from many lands beyond the sea, there is one neither loud nor mocking, but which, like the endless monotone in the poet's description of the uproar in hell, is more tormenting than all the other sounds combined. We mean that complacent "We told you so" of the friends of the old order of things -- of the men who have always predicted the downfall of the Republic -- not from any knowledge of us, but from the arbitrary assumption that Democracy is a false principle, and that, therefore, every Republic must be a failure.
 
