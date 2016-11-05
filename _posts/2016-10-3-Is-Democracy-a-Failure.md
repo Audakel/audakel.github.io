@@ -3,6 +3,9 @@ layout: post
 title: Is democracy a failure
 published: true
 ---
+
+Published: March 14, 1861 | New York Times
+
 Among the many voices raised in Europe over the disaster of secession, amid the groans of sorrow, cries of indignation and tones of sympathy which reach us from many lands beyond the sea, there is one neither loud nor mocking, but which, like the endless monotone in the poet's description of the uproar in hell, is more tormenting than all the other sounds combined. We mean that complacent "We told you so" of the friends of the old order of things -- of the men who have always predicted the downfall of the Republic -- not from any knowledge of us, but from the arbitrary assumption that Democracy is a false principle, and that, therefore, every Republic must be a failure.
 
 It may strike the reader as a quibble, as an absurdity, or as a falsehood, should we, in refutation of this principle of absolutiism and oligarchy, ask at this time of day if the United States of North America have really at any time actually constituted a Republican Government. We have been so accustomed to hear from infancy eulogies of the wisdom which shaped our Constitution, praises of its perfection, hymns to its symmetry and strength, that to doubt its fullness of all excellence has come to sound like sacrilege. A hundred refutations have been in bygone days hurled back at the skeptics; our noblest efforts of oratory and song are dedicated to the immortality of the Union, and we have never ceased to exult over those short-sighted seers of the last generation, who, having calculated the nativity of our Union, fixed its duration at fifty years.
